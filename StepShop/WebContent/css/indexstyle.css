@@ -1,0 +1,12 @@
+@CHARSET "UTF-8";
+
+
+#label-name{
+	text-transform: uppercase;
+	text-decoration: underline;
+}
+
+.someClass{
+	text-transform: uppercase;
+	text-decoration: underline;
+}
